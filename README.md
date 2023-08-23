@@ -1,1 +1,1 @@
-# mixed-reality
+# Introduction to Mixed Reality
