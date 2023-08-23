@@ -8,7 +8,7 @@ The creative process behind applications in mixed reality usually starts with a 
 To formalize such experience, multiple strategies can help you prototype your idea, including techniques such as storyboarding and bodystorming.
 Prototypes are not only used to sell your idea to the world but also to comprehend their possible limitations.
 
-### Step 1: Familiarize yourself with design theory for mixed reality:
+### Step 1: Familiarize yourself with design concepts for mixed reality:
 Start by exploring the following articles:
 
 - **Thinking differently for Mixed Reality** https://learn.microsoft.com/en-us/windows/mixed-reality/discover/case-study-expanding-the-design-process-for-mixed-reality
