@@ -28,7 +28,10 @@ represent your ideas, and create illustrations for each use case scenario.
 Each use case must include the system, an actor, and a textual description of the scenario. If you are not familiar with how use cases are written, please check out this [**blog post**](https://www.wrike.com/blog/what-is-a-use-case/).
 
 ### Step 3: Upload your illustrations to Canvas!
-
+To get the maximum number of points for this task, make sure your work fits the following requirements:
+- [ ] My work is based on the features available in the Microsoft Mixed Reality Toolkit (MRTK). If you are unsure about this requirement, make sure that the features you are planning to use are also described on the [**MRTK website**](https://learn.microsoft.com/en-us/windows/mixed-reality/design/design).
+- [ ] My work contains three figures, each representing a different use case.
+- [ ] Each figure includes the system (i.e., application), an actor (i.e., user), and a textual description of the scenario.
 
 
 
